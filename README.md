@@ -1,5 +1,9 @@
 # Ryuko — Tela de Login
 
+🔗 **Demonstração:** [https://ryuko-login.vercel.app](https://ryuko-login.vercel.app)
+
+![Captura de tela da tela de login da Ryuko](./docs/preview.png)
+
 Página de login responsiva construída com Next.js, React, TypeScript e Tailwind CSS. O lado esquerdo mostra um globo 3D interativo com pontos turísticos e rotas, uma citação e a logo da Ryuko. O lado direito contém o formulário de acesso, com login social, validação de e-mail e troca de idioma.
 
 ## Funcionalidades
