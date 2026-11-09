@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) no navegador.
+Abra [http://localhost:3000](http://localhost:3000) no navegador para ver a versão local. Para ver a versão publicada, use o link da demonstração no topo deste README.
 
 Outros comandos:
 
